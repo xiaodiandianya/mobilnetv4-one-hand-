@@ -10,7 +10,7 @@ MNV4ConvSmall_BLOCK_SPECS = {
         "block_name": "convbn",
         "num_blocks": 1,
         "block_specs": [
-            [1, 32, 3, 2]
+            [3, 32, 3, 2]
         ]
     },
     "layer1": {
